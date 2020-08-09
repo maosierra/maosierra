@@ -1,4 +1,4 @@
-![Name](Logo-Name.jpg)
+![Name](https://github.com/maosierra/maosierra/blob/master/Logo-Name.jpg)
 # Electronic and Communications Engineering
 Well-qualified Full Stack Developer familiar with a wide range of
 programming utilities and languages. Knowledgeable of embedded,
